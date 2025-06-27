@@ -37,7 +37,7 @@ When using this data, please cite the PCC abstract (Sokołowska et al. 2025 PCC)
 
 ### References
 
-Original Zenodo dataset: ...
+Original Zenodo dataset: Sokolowska, A. (2025). Dataset for "Open-sourcing a reconstructed catalog of new impacts on the Moon" (https://github.com/alexsokolowska/New_Craters_On_The_Moon) [Data set]. Open-sourcing a reconstructed catalog of new impacts on the Moon (16th Planetary Crater Consortium), Flagstaff, Arizona / Hybrid. Zenodo. https://doi.org/10.5281/zenodo.15755155
 
 Sokołowska, A.,  Bernstein-Schalet, J., Khan, S., Daubar, I., Rajsic, A., Gao, T. OPEN-SOURCING A RECONSTRUCTED CATALOG OF NEW IMPACTS ON THE MOON, 16th Planetary Crater Consortium (2025) https://www.hou.usra.edu/meetings/crater2025/abstracts/
 
